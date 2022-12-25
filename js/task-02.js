@@ -23,8 +23,6 @@ for (const ingredient of ingredients) {
   list.append(listElement);
 }
 
-container.append(list);
-
 // !====================================
 
 
