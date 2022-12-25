@@ -13,6 +13,8 @@ const ingredients = [
 
 // list.innerHTML = itemsList;
 
+// !==================================
+
 const list = document.querySelector("#ingredients");
 
 for (const ingredient of ingredients) {
@@ -22,3 +24,8 @@ for (const ingredient of ingredients) {
 }
 
 container.append(list);
+
+// !====================================
+
+
+
